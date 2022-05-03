@@ -1,2 +1,0 @@
-Test Git Quick Start demo
-This is the modification of the file.
